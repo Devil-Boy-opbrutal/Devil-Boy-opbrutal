@@ -10,7 +10,7 @@ Hi There, I'm DEVIL BOY, year 19 Friendly Neighbourhood Programmer From India.
 - **From**: `Gujarat`
 - **Age**  : `18`
 - **Study**: `BSC COMPUTER SCIENCE Year`
--**Fun fact**: I like Dogs
+- **Fun fact**: I like Dogs
 
 ## Where to find me
 
@@ -27,9 +27,8 @@ Hi There, I'm DEVIL BOY, year 19 Friendly Neighbourhood Programmer From India.
 ## OS & Tools
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=brown)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=dark)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -42,15 +41,14 @@ Hi There, I'm DEVIL BOY, year 19 Friendly Neighbourhood Programmer From India.
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Devil-Boy-opbrutal&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devil-Boy-opbrutal&layout=compact&theme=github_blue)
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Devil-Boy-opbrutal&show_icons=true&count_private=true&hide_border=True&include_all_commits=true&theme=github_dark)  
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/Devil-Boy-opbrutal?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 
 </details>
