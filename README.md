@@ -3,8 +3,6 @@
 
 ## Info
 
-Hi There, I'm DEVIL BOY, year 19 Friendly Neighbourhood Programmer From India.
-
 # About me
 - **Nama**  : `DEVILBOY`
 - **From**: `Gujarat`
