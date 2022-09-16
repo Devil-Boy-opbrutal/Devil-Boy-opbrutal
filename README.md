@@ -2,12 +2,8 @@
 <img src="https://te.legra.ph/file/1e0ef38285bf96adbc585.jpg">
 
 ## Info
+Name : DevilBoy
 
-# About me
-- **Nama**  : `DEVILBOY`
-- **From**: `Gujarat`
-- **Age**  : `18`
-- **Study**: `BSC COMPUTER SCIENCE Year`
 
 ## Where to find me
 
