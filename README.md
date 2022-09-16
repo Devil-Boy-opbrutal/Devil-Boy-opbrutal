@@ -1,5 +1,5 @@
 
-<img src="https://te.legra.ph/file/1e0ef38285bf96adbc585.jpg">
+
 
 ## Info
 Name : DevilBoy
